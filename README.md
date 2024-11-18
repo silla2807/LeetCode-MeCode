@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
