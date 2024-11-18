@@ -1,15 +1,17 @@
 class Solution {
     public int fib(int n) {
-        int p = 0;
-        int c = 1;
+        
+        if( n == 1) return 1;
+        if( n == 0) return 0;
+
+        int prev = 0;
+        int curr = 1;
         int res = 0;
-        if( n == 1){
-            return 1;
-        }
-        for(int i=1;i<n;i++){
-           res = p + c;//1, 2
-           p = c;//1,1,
-           c = res;//1, 2
+       
+        for(int i = 2; i <= n ; i++){
+           res = prev + curr;//1, 2
+           prev = curr;//1,1,
+           curr = res;//1, 2
         }
         return res;
     }
