@@ -38,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
+| [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
