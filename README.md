@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0344-reverse-string) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
