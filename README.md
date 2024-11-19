@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/silla2807/LeetCode-MeCode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/silla2807/LeetCode-MeCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
