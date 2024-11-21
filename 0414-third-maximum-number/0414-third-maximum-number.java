@@ -5,7 +5,6 @@ class Solution {
         long thirdMax = Long.MIN_VALUE;   
 
         for (int num : nums) {
-            // if (num == max || num == secondMax || num == thirdMax) continue;
 
             if (num > max) {
                 thirdMax = secondMax;
