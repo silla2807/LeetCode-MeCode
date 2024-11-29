@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
 | [3617-find-the-original-typed-string-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/3636-check-balanced-string) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
