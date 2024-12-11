@@ -6,9 +6,7 @@ class Solution {
             sb.append(s.substring(index,i)).append(" ");
             index = i;
         }
-        if(sb.length() != (s.length()+spaces.length)){
-            sb.append(s.substring(index,s.length()));
-        }
+        sb.append(s.substring(index));
         return sb.toString();
     }
 }
