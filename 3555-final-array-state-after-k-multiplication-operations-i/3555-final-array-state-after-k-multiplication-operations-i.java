@@ -10,13 +10,8 @@ class Solution {
         min=0;
         for(int j=0;j<nums.length;j++){
             min = nums[j] < nums[min] ? j : min; 
-            System.out.println(min);
         }
         nums[min]*=multiplier;
-        for(int num:nums){
-            System.out.print(num+" ");
-        }
-        System.out.println("");
     }
     return nums;
 }
