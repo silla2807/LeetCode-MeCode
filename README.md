@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/silla2807/LeetCode-MeCode/tree/master/1103-moving-stones-until-consecutive) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
