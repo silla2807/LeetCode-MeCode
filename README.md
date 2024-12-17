@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/silla2807/LeetCode-MeCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
+| [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Queue
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
