@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/silla2807/LeetCode-MeCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/silla2807/LeetCode-MeCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/silla2807/LeetCode-MeCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -134,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0414-third-maximum-number) |
