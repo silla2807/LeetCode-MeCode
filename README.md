@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/silla2807/LeetCode-MeCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -216,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
