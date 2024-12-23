@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## String
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/silla2807/LeetCode-MeCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1877-find-followers-count](https://github.com/silla2807/LeetCode-MeCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/silla2807/LeetCode-MeCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
