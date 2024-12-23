@@ -20,7 +20,6 @@ class Solution {
             Node next = current.next;
             if(current.child != null){
               Node lastchild = helper(current.child);
-              System.out.println(lastchild.val);
               current.next = current.child;
               current.child.prev = current;
               if(next != null) {
