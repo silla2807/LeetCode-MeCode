@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/silla2807/LeetCode-MeCode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/silla2807/LeetCode-MeCode/tree/master/0182-duplicate-emails) |
 | [1268-market-analysis-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/1268-market-analysis-i) |
 | [1415-students-and-examinations](https://github.com/silla2807/LeetCode-MeCode/tree/master/1415-students-and-examinations) |
