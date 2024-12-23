@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/silla2807/LeetCode-MeCode/tree/master/0182-duplicate-emails) |
+| [1268-market-analysis-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/1268-market-analysis-i) |
 | [1415-students-and-examinations](https://github.com/silla2807/LeetCode-MeCode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/silla2807/LeetCode-MeCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1877-find-followers-count](https://github.com/silla2807/LeetCode-MeCode/tree/master/1877-find-followers-count) |
