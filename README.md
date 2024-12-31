@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/silla2807/LeetCode-MeCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/silla2807/LeetCode-MeCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/silla2807/LeetCode-MeCode/tree/master/0338-counting-bits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/silla2807/LeetCode-MeCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/silla2807/LeetCode-MeCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/silla2807/LeetCode-MeCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0344-reverse-string) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/silla2807/LeetCode-MeCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
