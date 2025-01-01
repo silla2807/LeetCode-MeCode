@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## String
 |  |
