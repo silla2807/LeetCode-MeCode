@@ -1,40 +1,39 @@
 class Solution {
-    static class Node {
-        String currentString;
-        int openP;
-        int closeP;
+    
+        static class Node{
+            int open;
+            int close;
+            String s;
 
-        Node(String currentString, int openP, int closeP) {
-            this.currentString = currentString;
-            this.openP = openP;
-            this.closeP = closeP;
+         Node(int open,int close,String s){
+                 this.open = open;
+                 this.close = close;
+                 this.s = s;
+            }
         }
-    }
+        public List<String> generateParenthesis(int n) {
 
-     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
         Queue<Node> queue = new LinkedList<>();
+        List<String> list = new ArrayList<>();
+        
+        queue.add(new Node(0, 0,""));
 
-        queue.add(new Node("", 0, 0));
+        while(!queue.isEmpty()){
+            Node currentNode = queue.poll();
 
-        while (!queue.isEmpty()) {
-            Node node = queue.poll();
-
-            if (node.openP == n && node.closeP == n) {
-                result.add(node.currentString);
+             if (currentNode.open == n && currentNode.close == n) {
+                list.add(currentNode.s);
                 continue;
             }
-
-            if (node.openP < n) {
-                queue.add(new Node(node.currentString + "(", node.openP + 1, node.closeP));
+            if(currentNode.open < n){
+                queue.add(new Node(currentNode.open+1,currentNode.close,currentNode.s+"("));
             }
 
-            if (node.closeP < node.openP) {
-                queue.add(new Node(node.currentString + ")", node.openP, node.closeP + 1));
+            if(currentNode.close < currentNode.open){
+                queue.add(new Node(currentNode.open,currentNode.close+1,currentNode.s+")"));
             }
         }
-
-        return result;
+        return list;
         
     }
 }
