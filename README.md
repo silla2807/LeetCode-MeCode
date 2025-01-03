@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/silla2807/LeetCode-MeCode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/silla2807/LeetCode-MeCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
