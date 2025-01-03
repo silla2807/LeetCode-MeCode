@@ -1,21 +1,14 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int[] colours = new int[3];
-
-        for(int num :nums){
-            colours[num]++;
+         for(int i=0;i<nums.length;i++){
+            for(int j=0;j<nums.length-1;j++){
+                if(nums[j] > nums[j+1]){
+                    int temp = nums[j];
+                    nums[j]=nums[j+1];
+                    nums[j+1]= temp;
+                }
+            }
         }
-        int index = 0;
-        for(int i=0;i<colours.length;i++){
-            System.out.println("colors count"+colours[i]);
-           int count = colours[i];
-           while(count>0){
-             nums[index++] = i;
-             count--;
-           }
-           for(int n : nums){
-            System.out.println(n);
-           }
-        }
+        System.out.println(nums.toString());
     }
 }
