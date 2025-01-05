@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/silla2807/LeetCode-MeCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/silla2807/LeetCode-MeCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/silla2807/LeetCode-MeCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/silla2807/LeetCode-MeCode/tree/master/0303-range-sum-query-immutable) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -226,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0239-sliding-window-maximum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/silla2807/LeetCode-MeCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0239-sliding-window-maximum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
