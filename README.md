@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/silla2807/LeetCode-MeCode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/silla2807/LeetCode-MeCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/silla2807/LeetCode-MeCode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
