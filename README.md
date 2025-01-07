@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/silla2807/LeetCode-MeCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/silla2807/LeetCode-MeCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
 ## Two Pointers
 |  |
