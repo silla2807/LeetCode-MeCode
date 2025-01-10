@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
+| [0952-word-subsets](https://github.com/silla2807/LeetCode-MeCode/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/silla2807/LeetCode-MeCode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/silla2807/LeetCode-MeCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [0952-word-subsets](https://github.com/silla2807/LeetCode-MeCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/silla2807/LeetCode-MeCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0952-word-subsets](https://github.com/silla2807/LeetCode-MeCode/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Queue
 |  |
