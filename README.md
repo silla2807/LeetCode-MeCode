@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/silla2807/LeetCode-MeCode/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/silla2807/LeetCode-MeCode/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/silla2807/LeetCode-MeCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/silla2807/LeetCode-MeCode/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/silla2807/LeetCode-MeCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0952-word-subsets](https://github.com/silla2807/LeetCode-MeCode/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/silla2807/LeetCode-MeCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Queue
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/silla2807/LeetCode-MeCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/silla2807/LeetCode-MeCode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/silla2807/LeetCode-MeCode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/silla2807/LeetCode-MeCode/tree/master/0917-boats-to-save-people) |
+| [1502-construct-k-palindrome-strings](https://github.com/silla2807/LeetCode-MeCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/silla2807/LeetCode-MeCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
