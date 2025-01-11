@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/silla2807/LeetCode-MeCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/silla2807/LeetCode-MeCode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/silla2807/LeetCode-MeCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/silla2807/LeetCode-MeCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/silla2807/LeetCode-MeCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/silla2807/LeetCode-MeCode/tree/master/0283-move-zeroes) |
