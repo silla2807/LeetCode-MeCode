@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/silla2807/LeetCode-MeCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/silla2807/LeetCode-MeCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/silla2807/LeetCode-MeCode/tree/master/0338-counting-bits) |
+| [2792-neighboring-bitwise-xor](https://github.com/silla2807/LeetCode-MeCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/silla2807/LeetCode-MeCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/silla2807/LeetCode-MeCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
