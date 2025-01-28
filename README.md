@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/silla2807/LeetCode-MeCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/silla2807/LeetCode-MeCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/silla2807/LeetCode-MeCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/silla2807/LeetCode-MeCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/silla2807/LeetCode-MeCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -247,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/silla2807/LeetCode-MeCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/silla2807/LeetCode-MeCode/tree/master/0064-minimum-path-sum) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
