@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/silla2807/LeetCode-MeCode/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/silla2807/LeetCode-MeCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/silla2807/LeetCode-MeCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/silla2807/LeetCode-MeCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/silla2807/LeetCode-MeCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/silla2807/LeetCode-MeCode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/silla2807/LeetCode-MeCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/silla2807/LeetCode-MeCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/silla2807/LeetCode-MeCode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/silla2807/LeetCode-MeCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
